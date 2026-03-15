@@ -23,7 +23,7 @@ This repository contains interactive Jupyter Notebook materials for the **Probab
 ## 🗂️ Repository Structure
 
 ```
-olasilik-ve-istatistik/
+probability/
 │
 ├── README.md
 ├── requirements.txt
@@ -50,8 +50,8 @@ olasilik-ve-istatistik/
 
 ```bash
 # Clone the repository
-git clone https://github.com/HAYDARKILIC/olasilik-ve-istatistik.git
-cd olasilik-ve-istatistik
+git clone https://github.com/HAYDARKILIC/probability.git
+cd probability
 
 # Create a virtual environment (recommended)
 python -m venv .venv
@@ -81,4 +81,4 @@ jupyter lab
 
 ---
 
-*Haydar Kilic, Artificial Intelligence Engineering
+*Haydar Kilic, Artificial Intelligence Engineering*
