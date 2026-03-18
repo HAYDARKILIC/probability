@@ -79,6 +79,9 @@ jupyter lab
 | `itertools` | Combinatorial generation (permutations, combinations) |
 | `collections` | Frequency counting (`Counter`) |
 
+## 📖 Reference
+
+Ross, S. M. (2020). A first course in probability. Harlow, UK: Pearson.
 ---
 
 *Haydar Kilic, Artificial Intelligence Engineering*
